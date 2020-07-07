@@ -10,5 +10,5 @@ This web app allows you to add projects by entering title, description and size 
 ## Built With
 * Typescript
 
-## Authors
+## Author
 * **Vishal Sripathi** - [vishalsripathi](https://github.com/vishalsripathi)
